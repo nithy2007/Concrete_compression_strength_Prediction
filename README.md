@@ -26,29 +26,29 @@ The goal of this project is to build and compare regression models to predict th
 
 Steps:
 
-Perform exploratory data analysis (EDA) to understand distributions and correlations.
+1. Perform exploratory data analysis (EDA) to understand distributions and correlations.
 
-Fit and compare the following regression models:
+2. Fit and compare the following regression models:
 
-Polynomial Regression
+      - Polynomial Regression
 
-Polynomial Ridge Regression
+      - Polynomial Ridge Regression
 
-Orthogonal Polynomial Regression
+      - Orthogonal Polynomial Regression
 
-Spline Regression (PyGAM)
+      - Spline Regression (PyGAM)
 
-Regression Tree & Pruned Tree
+      - Regression Tree (Full and Pruned)
 
-Random Forest
+      - Random Forest
 
-Used a 70–30 train-test split.
+3. Used a 70–30 train-test split.
 
-Evaluate models using Mean Squared Error (MSE) and R².
+4. Evaluate models using Mean Squared Error (MSE) and R².
 
-Use cross-validation for hyperparameter tuning.
+5. Use cross-validation for hyperparameter tuning.
 
-Compare models on accuracy, interpretability, and complexity.
+6. Compare models on accuracy, interpretability, and complexity.
 
 ## Models and Results
 | **Model**                              | **Train MSE** | **Test MSE** | **Train R²** | **Test R²** | **Remarks**                                                              |
