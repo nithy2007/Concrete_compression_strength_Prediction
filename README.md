@@ -26,9 +26,9 @@ The goal of this project is to build and compare regression models to predict th
 
 Steps:
 
-1. Perform exploratory data analysis (EDA) to understand distributions and correlations.
+1. Performed exploratory data analysis (EDA) to understand distributions and correlations.
 
-2. Fit and compare the following regression models:
+2. Fit and compared the following regression models:
 
       - Polynomial Regression
 
@@ -70,9 +70,9 @@ Polynomial models: Captured nonlinearity but suffered from multicollinearity.
 
 Splines (PyGAM): Best balance of interpretability and predictive accuracy.
 
-Tree-based models: Capture interactions well; Random Forest showed high robustness.
+Tree-based models: Captured interactions well; Random Forest showed high robustness.
 
-Important predictors: Cement, water, and age most strongly influence strength.
+Important predictors: Cement, water, and age more strongly influence strength.
 
 ## Tools & Libraries
 
