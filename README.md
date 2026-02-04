@@ -44,11 +44,11 @@ Steps:
 
 3. Used a 70–30 train-test split.
 
-4. Evaluate models using Mean Squared Error (MSE) and R².
+4. Evaluated models using Mean Squared Error (MSE) and R².
 
-5. Use cross-validation for hyperparameter tuning.
+5. Used cross-validation for hyperparameter tuning.
 
-6. Compare models on accuracy, interpretability, and complexity.
+6. Compared models on accuracy, interpretability, and complexity.
 
 ## Models and Results
 | **Model**                              | **Train MSE** | **Test MSE** | **Train R²** | **Test R²** | **Remarks**                                                              |
